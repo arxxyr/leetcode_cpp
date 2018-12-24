@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LRUCache.hpp">
+    <ClInclude Include="addtwonum.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
